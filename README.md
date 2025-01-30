@@ -7,5 +7,11 @@ A simple React-based To-Do List application that allows users to add items to a 
 - Clicking the "Add" button appends the item to the list.
 - The input field is cleared after adding an item.
 
+## Technologies Used
+- React.js
+- HTML
+- CSS
+- JS
+
 
 ## Deployment Link : https://8j5lcy.csb.app/
